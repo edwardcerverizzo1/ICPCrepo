@@ -1,5 +1,8 @@
 /*
 
+Link to original problem:
+https://open.kattis.com/problems/golombrulers
+
 How it works:
 Highlevel:
   To find all the values of a golomb ruler we need to find the difference between the different marks given. 
